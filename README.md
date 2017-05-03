@@ -1,2 +1,2 @@
 # git_training
-# Git Training
+# Git Training from Framgia Vietnam
